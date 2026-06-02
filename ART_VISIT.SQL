@@ -1,4 +1,3 @@
-ART_VISIT.SQL
 with attribute_concepts as  
 (
 select
